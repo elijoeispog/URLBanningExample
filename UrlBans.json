@@ -5,31 +5,31 @@
 		"reason": "Known ip logger"
 	},
 	{
-		"url": "gg.gg"
+		"url": "gg.gg",
 		"reason": "Link shortener unable to tell what destination is"
 	},
 	{
-		"url": "shorte.st"
+		"url": "shorte.st",
 		"reason": "Link shortener unable to tell what destination is"
 	},
 	{
-		"url": "shorturl.at"
+		"url": "shorturl.at",
 		"reason": "Link shortener unable to tell what destination is"
 	},
 	{
-		"url": "adf.ly"
+		"url": "adf.ly",
 		"reason": "Link shortener unable to tell what destination is"
 	},
 	{
-		"url": "bc.vc"
+		"url": "bc.vc",
 		"reason": "Link shortener unable to tell what destination is"
 	},
 	{
-		"url": "ouo.io"
+		"url": "ouo.io",
 		"reason": "Link shortener unable to tell what destination is"
 	},
 	{
-		"url": "adfoc.us"
+		"url": "adfoc.us",
 		"reason": "Link shortener unable to tell what destination is"
 	}
 ]
