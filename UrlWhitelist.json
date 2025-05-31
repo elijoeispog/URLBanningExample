@@ -1,11 +1,11 @@
 {
 	"whitelist": [
 	{
-		"url": "discordapp.com",
+		"url": "cdn.discordapp.com",
 		"description": "Discord"
 	},
 	{
-		"url": "twimg.com",
+		"url": "video.twimg.com",
 		"description": "Twitters media hosting"
 	},
 	{
