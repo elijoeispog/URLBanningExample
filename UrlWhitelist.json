@@ -1,0 +1,16 @@
+{
+	"whitelist": [
+	{
+		"url": "discordapp.com",
+		"description": "Discord"
+	},
+	{
+		"url": "twimg.com",
+		"description": "Twitters media hosting"
+	},
+	{
+		"url": "catbox.moe",
+		"description": "Media hosting website"
+	}
+]
+}
